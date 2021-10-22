@@ -1,11 +1,16 @@
 _repo: Cholera-and-the-Water-Supply-In-the-south-districts-of-London-in-1854_66507
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66507-h/images/cover.jpg
 creator:
   author:
     agent_name: Snow, John
     gutenberg_agent_id: '53843'
     url: http://www.gutenberg.org/2009/agents/53843
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66507#Cholera-and-the-Water-Supply-In-the-south-districts-of-London-in-1854
 gutenberg_issued: '2021-10-10'
 identifiers:
   gutenberg: '66507'
